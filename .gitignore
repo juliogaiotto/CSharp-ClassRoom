@@ -1,55 +1,48 @@
-# Prerequisites
-*.d
+# --- [ .NET / C# ] ---
+bin/
+obj/
+[Ou]ut/
+# Arquivos de log e cache do .NET
+*.log
+*.user
+*.userosscache
+*.sln.docstates
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# --- [ Visual Studio ] ---
+.vs/
+# Arquivos de cache e indexação do VS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opendb
+*.db
+# Pasta de teste
+TestResults/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# --- [ VS Code ] ---
+.vscode/
+# Se você quiser salvar as configurações de debug do VS Code para a equipe, 
+# comente a linha acima com # e use as de baixo:
+# !.vscode/launch.json
+# !.vscode/tasks.json
 
-# Precompiled Headers
-*.gch
-*.pch
+# --- [ Dependências (NuGet/NPM) ] ---
+# O .NET restaura os pacotes automaticamente
+packages/
+node_modules/
+*.nuget.props
+*.nuget.targets
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# --- [ Banco de Dados Locais ] ---
+# Se usar SQLite ou SQL Express local
+*.db
+*.s3db
+*.sqlite
+*.mdf
+*.ldf
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+# --- [ Arquivos de Sistema ] ---
+.DS_Store
+Thumbs.db

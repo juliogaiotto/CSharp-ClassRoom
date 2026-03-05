@@ -13,9 +13,14 @@ __Estudo:__
 * CLI do .NET
 * ``dotnet new / dotnet run``
 
-__Onde encontrar:__ https://learn.microsoft.com/pt-br/dotnet/core/tools/
+__Onde encontrar:__
+<a href="https://learn.microsoft.com/pt-br/dotnet/core/tools/" target="_blank">
+    https://learn.microsoft.com/pt-br/dotnet/core/tools/
+</a>
 
 __Prática:__ Instalar o SDK, criar um projeto console e executar “Hello World”.
+
+---
 
 ## 📌 Dia 2: Variáveis e tipos primitivos
 
@@ -25,9 +30,13 @@ __Estudo:__
 * Console.ReadLine
 
 __Onde encontrar:__
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/built-in-types" target="_blank">
 https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/built-in-types
+</a>
 
 __Prática:__ Programa que lê nome e idade e imprime.
+
+---
 
 ## 📌Dia 3: Estruturas de decisão
 
@@ -36,9 +45,13 @@ __Estudo:__
 * switch
 
 __Onde encontrar:__
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/selection-statements" target="_blank">
 https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/selection-statements
+</a>
 
 __Prática:__ Programa que valida login simples.
+
+--- 
 
 ## 📌Dia 4: Laços de repetição
 
@@ -52,6 +65,8 @@ https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/it
 
 __Prática:__
 Programa que lista números pares.
+
+---
 
 ## 📌Dia 5: Métodos
 

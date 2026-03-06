@@ -2,6 +2,8 @@
 
 #### Plano de estudos de 90 dias
 
+Veja aqui o [Material de C#](https://learn.microsoft.com/pt-br/dotnet/csharp/) da Microsoft Learn
+
 ---
 
 # 🔹Bloco 1 — FUNDAMENTOS C# (Dias 1 a 15)

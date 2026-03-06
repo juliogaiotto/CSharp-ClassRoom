@@ -2,6 +2,8 @@
 
 #### Plano de estudos de 90 dias
 
+Veja aqui o [Material de C#](https://learn.microsoft.com/pt-br/dotnet/csharp/) da Microsoft Learn
+
 ---
 
 # 🔹Bloco 1 — FUNDAMENTOS C# (Dias 1 a 15)
@@ -23,6 +25,7 @@ __Prática:__ Instalar o SDK, criar um projeto console e executar “Hello World
 ---
 
 ## 📌 Dia 2: Variáveis e tipos primitivos
+[https://github.com/juliogaiotto/CSharp-ClassRoom/tree/de700b132546b82ed6bf41353074e55bf68143f9/Dia2](Dia 2)
 
 __Estudo:__
 * var
